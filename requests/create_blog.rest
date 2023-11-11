@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Simple Lasagna Recipe",
+    "author": "Maggie Stewart",
+    "url": "https://www.spendwithpennies.com/easy-homemade-lasagna/",
+    "likes": 92
+}
